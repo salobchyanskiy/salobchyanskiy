@@ -4,4 +4,4 @@
 <h4 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salobchyanskiy&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)"/></a>
 
 
-[](https://komarev.com/ghpvc/?username=salobchyanskiy)
+<h5 align="center"><"https://komarev.com/ghpvc/?username=salobchyanskiy">
